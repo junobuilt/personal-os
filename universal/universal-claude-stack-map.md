@@ -1,1 +1,1 @@
-
+Specifically: where each Claude product fits and when to use which. Claude.ai chat, Claude Projects, Claude Code, Claude in Chrome, Cowork, API. With the trigger for each ("use this when…"). This is a fast-changing area, worth keeping current.
