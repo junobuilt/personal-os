@@ -1,1 +1,2 @@
+- Stub file. Content gets added as Obi-Wan teaches the concepts in real sessions -
 [How parts of your stack fit together. CLI vs IDE vs terminal. Agents vs chats vs subagents. MCPs vs APIs vs connectors. Each entry is a short explanation + a visual if one would help. The kind of thing you wished you knew when you first encountered each concept.]
